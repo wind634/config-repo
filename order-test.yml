@@ -26,3 +26,6 @@ logging:
 
 env:
   test
+
+label:
+  release
